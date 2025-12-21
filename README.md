@@ -172,9 +172,9 @@ This project is licensed for **educational purposes only**. You are free to:
 
 ## 📈 Project Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/react-app)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/react-app)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/react-app?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/OrgWebSolutions/React-Basics)
+![GitHub repo size](https://img.shields.io/github/repo-size/OrgWebSolutions/React-Basics)
+![GitHub stars](https://img.shields.io/github/stars/OrgWebSolutions/React-Basics?style=social)
 
 ---
 
