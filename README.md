@@ -58,7 +58,7 @@ npm --version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react.git
+   git clone https://github.com/OrgWebSolutions/React-Basics.git
    cd react-app
    ```
 
