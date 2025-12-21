@@ -1,0 +1,14 @@
+// Verify the update operation
+db.students.findOne({ roll_no: 101 });
+
+// Count students in CSE department
+db.students.countDocuments({ department: "CSE" });
+
+// Find students with marks greater than 80
+db.students.find({ marks: { $gt: 80 } });
+
+// Insert multiple students at once
+db.students.insertMany([
+    { name: "Priya", roll_no: 102, department: "ECE", marks: 78 },
+    { name: "Rahul", roll_no: 103, department: "CSE", marks: 92 }
+]);

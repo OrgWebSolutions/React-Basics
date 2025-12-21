@@ -1,0 +1,26 @@
+// Use the database
+use studentDB;
+
+// 1. INSERT - Create a new student record
+db.students.insertOne({
+    name: "Amit",
+    roll_no: 101,
+    department: "CSE",
+    marks: 85
+});
+
+// 2. READ - Retrieve all students from CSE department
+db.students.find({
+    department: "CSE"
+});
+
+// 3. UPDATE - Update marks of student with roll_no 101 to 90
+db.students.updateOne(
+    { roll_no: 101 },
+    { $set: { marks: 90 } }
+);
+
+// 4. DELETE - Delete the record of student with roll_no 101
+db.students.deleteOne({
+    roll_no: 101
+});

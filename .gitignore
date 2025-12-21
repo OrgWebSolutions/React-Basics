@@ -1,0 +1,11 @@
+# Node dependencies (root and all subfolders)
+node_modules/
+
+# Package lock file
+package-lock.json
+
+# Private file only in root directory
+/button.html
+/calculator.html
+/hello.html
+/hidden.html
