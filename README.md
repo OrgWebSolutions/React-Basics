@@ -144,7 +144,7 @@ Give a ⭐️ if this project helped you learn React and MongoDB!
 
 ## 📄 Copyright & License
 
-© 2025 **Saurabh Kumar**. All Rights Reserved.
+© 2025 **OrgWebSolutions**. All Rights Reserved.
 
 This project is licensed for **educational purposes only**. You are free to:
 - Use the code for learning
@@ -157,19 +157,23 @@ This project is licensed for **educational purposes only**. You are free to:
 
 ---
 
-## 📞 Contact
+## 🌟 Show Your Support
 
-**Saurabh Kumar**
-- Website: [gu-saurabh.site](https://www.gu-saurabh.site)
-- LinkedIn: [@Saurabhtbj1201](https://www.linkedin.com/in/Saurabhtbj1201/)
-- Email: [Contact through website](https://www.gu-saurabh.site)
+Give a ⭐️ if this project helped you!
+
+<div align="center">
+
+### 🙏 Thank you for visiting!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=OrgWebSolutions.React-Basics)
+
+</div>
 
 ---
 
-> Designed with 💡 by [Saurabh Kumar](https://www.linkedin.com/in/saurabhtbj1201)
+</div>
 
 ---
-
 ## 📈 Project Stats
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OrgWebSolutions/React-Basics)
